@@ -1,9 +1,0 @@
-{
-	"id": "eHEEFXBLlbShQy3",
-	"json": "{\"id\":\"eHEEFXBLlbShQy3\",\"url\":\"https://crawlee.dev/api/core/interface/SnapshotterOptions\",\"uniqueKey\":\"https://crawlee.dev/api/core/interface/SnapshotterOptions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1662255797100,
-	"retryCount": 0,
-	"uniqueKey": "https://crawlee.dev/api/core/interface/SnapshotterOptions",
-	"url": "https://crawlee.dev/api/core/interface/SnapshotterOptions"
-}

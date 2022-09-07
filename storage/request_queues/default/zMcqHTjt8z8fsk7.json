@@ -1,9 +1,0 @@
-{
-	"id": "zMcqHTjt8z8fsk7",
-	"json": "{\"id\":\"zMcqHTjt8z8fsk7\",\"url\":\"https://crawlee.dev/api/core/class/NonRetryableError\",\"uniqueKey\":\"https://crawlee.dev/api/core/class/NonRetryableError\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1662255797096,
-	"retryCount": 0,
-	"uniqueKey": "https://crawlee.dev/api/core/class/NonRetryableError",
-	"url": "https://crawlee.dev/api/core/class/NonRetryableError"
-}

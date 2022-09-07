@@ -1,9 +1,0 @@
-{
-	"id": "Z0cdagFTQrejFy3",
-	"json": "{\"id\":\"Z0cdagFTQrejFy3\",\"url\":\"https://crawlee.dev/api/next/core/changelog\",\"uniqueKey\":\"https://crawlee.dev/api/next/core/changelog\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1662255798534,
-	"retryCount": 0,
-	"uniqueKey": "https://crawlee.dev/api/next/core/changelog",
-	"url": "https://crawlee.dev/api/next/core/changelog"
-}

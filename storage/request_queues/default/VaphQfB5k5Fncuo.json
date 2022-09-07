@@ -1,9 +1,0 @@
-{
-	"id": "VaphQfB5k5Fncuo",
-	"json": "{\"id\":\"VaphQfB5k5Fncuo\",\"url\":\"https://crawlee.dev/api/core/interface/StorageManagerOptions\",\"uniqueKey\":\"https://crawlee.dev/api/core/interface/StorageManagerOptions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1662255797100,
-	"retryCount": 0,
-	"uniqueKey": "https://crawlee.dev/api/core/interface/StorageManagerOptions",
-	"url": "https://crawlee.dev/api/core/interface/StorageManagerOptions"
-}

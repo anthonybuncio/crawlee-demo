@@ -1,9 +1,0 @@
-{
-	"id": "uZG33OxUKdvgGvZ",
-	"json": "{\"id\":\"uZG33OxUKdvgGvZ\",\"url\":\"https://crawlee.dev/api/core/interface/ProxyInfo\",\"uniqueKey\":\"https://crawlee.dev/api/core/interface/ProxyInfo\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1662255797099,
-	"retryCount": 0,
-	"uniqueKey": "https://crawlee.dev/api/core/interface/ProxyInfo",
-	"url": "https://crawlee.dev/api/core/interface/ProxyInfo"
-}

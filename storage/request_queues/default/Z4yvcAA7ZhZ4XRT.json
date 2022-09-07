@@ -1,9 +1,0 @@
-{
-	"id": "Z4yvcAA7ZhZ4XRT",
-	"json": "{\"id\":\"Z4yvcAA7ZhZ4XRT\",\"url\":\"https://crawlee.dev/api/next/puppeteer-crawler/class/PuppeteerCrawler\",\"uniqueKey\":\"https://crawlee.dev/api/next/puppeteer-crawler/class/PuppeteerCrawler\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1662255798535,
-	"retryCount": 0,
-	"uniqueKey": "https://crawlee.dev/api/next/puppeteer-crawler/class/PuppeteerCrawler",
-	"url": "https://crawlee.dev/api/next/puppeteer-crawler/class/PuppeteerCrawler"
-}

@@ -1,24 +1,25 @@
-// For more information, see https://crawlee.dev/
 import { PlaywrightCrawler, Dataset } from 'crawlee';
 
 // PlaywrightCrawler crawls the web using a headless
 // browser controlled by the Playwright library.
 const crawler = new PlaywrightCrawler({
+    maxRequestsPerCrawl: 2,
     // Use the requestHandler to process each of the crawled pages.
-    async requestHandler({ request, page, enqueueLinks, log }) {
-        const title = await page.title();
-        log.info(`Title of ${request.loadedUrl} is '${title}'`);
-
-        // Save results as JSON to ./storage/datasets/default
-        await Dataset.pushData({ title, url: request.loadedUrl });
-
-        // Extract links from the current page
-        // and add them to the crawling queue.
-        await enqueueLinks();
+    requestHandler: async ({ page }) => {
+        // Wait for the actor cards to render.
+        await page.waitForSelector('.col-md-6');
+        // Execute a function in the browser which targets
+        // the actor card elements and allows their manipulation.
+        const actorTexts = await page.$$eval('.col-md-6', (els) => {
+            // Extract text content from the actor cards
+            return els.map((el) => el.textContent);
+        });
+        actorTexts.forEach((text, i) => {
+            console.log(text);
+        });
     },
-    // Uncomment this option to see the browser window.
-    // headless: false,
 });
 
-// Add first URL to the queue and start the crawl.
-await crawler.run(['https://crawlee.dev']);
+// await crawler.run(['https://apify.com/store']);
+
+

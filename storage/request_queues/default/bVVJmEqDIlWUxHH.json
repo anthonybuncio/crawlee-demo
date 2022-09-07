@@ -1,9 +1,0 @@
-{
-	"id": "bVVJmEqDIlWUxHH",
-	"json": "{\"id\":\"bVVJmEqDIlWUxHH\",\"url\":\"https://crawlee.dev/api/core/interface/QueueOperationInfoOptions\",\"uniqueKey\":\"https://crawlee.dev/api/core/interface/QueueOperationInfoOptions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1662255797099,
-	"retryCount": 0,
-	"uniqueKey": "https://crawlee.dev/api/core/interface/QueueOperationInfoOptions",
-	"url": "https://crawlee.dev/api/core/interface/QueueOperationInfoOptions"
-}

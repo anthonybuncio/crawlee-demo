@@ -1,9 +1,0 @@
-{
-	"id": "VWNBFmtwruXSqgi",
-	"json": "{\"id\":\"VWNBFmtwruXSqgi\",\"url\":\"https://crawlee.dev/docs/guides/configuration\",\"uniqueKey\":\"https://crawlee.dev/docs/guides/configuration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1662255796100,
-	"retryCount": 0,
-	"uniqueKey": "https://crawlee.dev/docs/guides/configuration",
-	"url": "https://crawlee.dev/docs/guides/configuration"
-}

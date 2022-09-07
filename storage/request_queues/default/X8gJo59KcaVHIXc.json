@@ -1,9 +1,0 @@
-{
-	"id": "X8gJo59KcaVHIXc",
-	"json": "{\"id\":\"X8gJo59KcaVHIXc\",\"url\":\"https://crawlee.dev/api/playwright-crawler/class/PlaywrightCrawler\",\"uniqueKey\":\"https://crawlee.dev/api/playwright-crawler/class/PlaywrightCrawler\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1662255796100,
-	"retryCount": 0,
-	"uniqueKey": "https://crawlee.dev/api/playwright-crawler/class/PlaywrightCrawler",
-	"url": "https://crawlee.dev/api/playwright-crawler/class/PlaywrightCrawler"
-}

@@ -1,9 +1,0 @@
-{
-	"id": "OpdP2JCPd3zohU1",
-	"json": "{\"id\":\"OpdP2JCPd3zohU1\",\"url\":\"https://crawlee.dev/docs/introduction/adding-urls\",\"loadedUrl\":\"https://crawlee.dev/docs/introduction/adding-urls\",\"uniqueKey\":\"https://crawlee.dev/docs/introduction/adding-urls\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{},\"handledAt\":\"2022-09-04T01:43:21.976Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://crawlee.dev/docs/introduction/adding-urls",
-	"url": "https://crawlee.dev/docs/introduction/adding-urls"
-}

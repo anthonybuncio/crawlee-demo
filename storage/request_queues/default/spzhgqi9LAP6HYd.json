@@ -1,9 +1,0 @@
-{
-	"id": "spzhgqi9LAP6HYd",
-	"json": "{\"id\":\"spzhgqi9LAP6HYd\",\"url\":\"https://crawlee.dev/docs/guides/apify-platform\",\"uniqueKey\":\"https://crawlee.dev/docs/guides/apify-platform\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
-	"method": "GET",
-	"orderNo": 1662255796119,
-	"retryCount": 0,
-	"uniqueKey": "https://crawlee.dev/docs/guides/apify-platform",
-	"url": "https://crawlee.dev/docs/guides/apify-platform"
-}
