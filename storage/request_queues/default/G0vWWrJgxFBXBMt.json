@@ -1,0 +1,9 @@
+{
+	"id": "G0vWWrJgxFBXBMt",
+	"json": "{\"id\":\"G0vWWrJgxFBXBMt\",\"url\":\"https://crawlee.dev/docs/examples/crawl-relative-links\",\"uniqueKey\":\"https://crawlee.dev/docs/examples/crawl-relative-links\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
+	"method": "GET",
+	"orderNo": 1662255796118,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/examples/crawl-relative-links",
+	"url": "https://crawlee.dev/docs/examples/crawl-relative-links"
+}

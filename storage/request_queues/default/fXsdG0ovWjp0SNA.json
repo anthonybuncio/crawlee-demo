@@ -1,0 +1,9 @@
+{
+	"id": "fXsdG0ovWjp0SNA",
+	"json": "{\"id\":\"fXsdG0ovWjp0SNA\",\"url\":\"https://crawlee.dev/api/core/enum/EnqueueStrategy\",\"uniqueKey\":\"https://crawlee.dev/api/core/enum/EnqueueStrategy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
+	"method": "GET",
+	"orderNo": 1662255797097,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/core/enum/EnqueueStrategy",
+	"url": "https://crawlee.dev/api/core/enum/EnqueueStrategy"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "iatfMV5ckdIUS6T",
+	"json": "{\"id\":\"iatfMV5ckdIUS6T\",\"url\":\"https://crawlee.dev/api/core/interface/AutoscaledPoolOptions\",\"uniqueKey\":\"https://crawlee.dev/api/core/interface/AutoscaledPoolOptions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
+	"method": "GET",
+	"orderNo": 1662255797097,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/core/interface/AutoscaledPoolOptions",
+	"url": "https://crawlee.dev/api/core/interface/AutoscaledPoolOptions"
+}

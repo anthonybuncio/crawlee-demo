@@ -1,0 +1,9 @@
+{
+	"id": "aqHBA77mjw1ZFIj",
+	"json": "{\"id\":\"aqHBA77mjw1ZFIj\",\"url\":\"https://crawlee.dev/api/core/interface/DatasetDataOptions\",\"uniqueKey\":\"https://crawlee.dev/api/core/interface/DatasetDataOptions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
+	"method": "GET",
+	"orderNo": 1662255797098,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/core/interface/DatasetDataOptions",
+	"url": "https://crawlee.dev/api/core/interface/DatasetDataOptions"
+}

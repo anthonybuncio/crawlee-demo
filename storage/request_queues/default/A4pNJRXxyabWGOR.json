@@ -1,0 +1,9 @@
+{
+	"id": "A4pNJRXxyabWGOR",
+	"json": "{\"id\":\"A4pNJRXxyabWGOR\",\"url\":\"https://crawlee.dev/api/core/class/RetryRequestError\",\"uniqueKey\":\"https://crawlee.dev/api/core/class/RetryRequestError\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
+	"method": "GET",
+	"orderNo": 1662255797096,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/core/class/RetryRequestError",
+	"url": "https://crawlee.dev/api/core/class/RetryRequestError"
+}

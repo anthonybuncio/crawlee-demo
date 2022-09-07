@@ -1,0 +1,9 @@
+{
+	"id": "jZmXrqnW1duiLj9",
+	"json": "{\"id\":\"jZmXrqnW1duiLj9\",\"url\":\"https://crawlee.dev/docs/examples/basic-crawler\",\"uniqueKey\":\"https://crawlee.dev/docs/examples/basic-crawler\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
+	"method": "GET",
+	"orderNo": 1662255796118,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/docs/examples/basic-crawler",
+	"url": "https://crawlee.dev/docs/examples/basic-crawler"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "8b1mlwO8TPRpWKQ",
+	"json": "{\"id\":\"8b1mlwO8TPRpWKQ\",\"url\":\"https://crawlee.dev/api/puppeteer-crawler\",\"uniqueKey\":\"https://crawlee.dev/api/puppeteer-crawler\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{}}",
+	"method": "GET",
+	"orderNo": 1662255797094,
+	"retryCount": 0,
+	"uniqueKey": "https://crawlee.dev/api/puppeteer-crawler",
+	"url": "https://crawlee.dev/api/puppeteer-crawler"
+}
